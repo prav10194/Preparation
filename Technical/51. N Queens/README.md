@@ -10,4 +10,4 @@ Algorithm: Create 3 sets for cols, posDig, negDig (rows is not needed as a set a
 
 For each row, don't add into the set if either of c, r+c or r-c is not unique. Add if unique, and backtrack to next row. In case of any of the sets already filled for that value, remove the last added value and repeat the process.
 
-[N Queens PDF](79.pdf)
+[N Queens PDF](51.pdf)
