@@ -37,7 +37,7 @@ Easy
 
 | Type | Complexity |
 |------|-------------|
-| Time | O(|t|) |
+| Time | O(t) |
 | Space | O(1) |
 
 </details> 
